@@ -6,9 +6,9 @@ This project is contributed by Institute of Computer Vision, Shenzhen University
 
 ## Contributor
 
-Feng.Liu : feng.liu@szu.edu.cn POST: Associate research fllow Organization:Shenzhen University
-
 Haozhe.Liu : liuhaozhest@gmail.com Post:Sensor Organization: Shenzhen University
+
+Feng.Liu : feng.liu@szu.edu.cn POST: Associate research fllow Organization:Shenzhen University
 
 Wentian.Zhang : zhangwentianml@gmail.com Post:Junior Organization:SUST
 
