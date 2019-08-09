@@ -6,17 +6,14 @@ This project is contributed by Institute of Computer Vision, Shenzhen University
 
 ## Contributor
 
+Feng.Liu : feng.liu@szu.edu.cn POST: Associate research fllow Organization:Shenzhen University
+
 Haozhe.Liu : liuhaozhest@gmail.com Post:Sensor Organization: Shenzhen University
 
 Wentian.Zhang : zhangwentianml@gmail.com Post:Junior Organization:SUST
 
-Feng.Liu : feng.liu@szu.edu.cn POST: Associate research fllow Organization:Shenzhen University
+Yong.Qi, JiaShu Chen, HaiMing.Cao
 
-Yong.Qi : qiyong@sust.edu.cn POST: Ph.D Organization:SUST
-
-JiaShu Chen : a1416228373@gmail.com Post:Junior Organization:SUST
-
-HaiMing.Cao : hoiming.wk@foxmail.com Post:Junior Organization:SUST
 ## Contribution
 
 The use of software is as follows:
@@ -80,9 +77,9 @@ This project can quickly and effectively help researchers discover the represent
 ## Contact information
 **Academic communication and discussion are welcome.**
 
-- liuhaozhest@gmail.com
-
 - feng.liu@szu.edu.cn
 
+- liuhaozhest@gmail.com
+
 ## Acknowledgement
-The work is partially supported by the Natural Science Foundation of China(61672357, 61573248, 61802267, 61732011 and U1713214),the Science and Technology Funding of Guangdong Province(2017A030313367 and 2018A050501014), the Education Department of Shaanxi Province (15JK1086), and Shaanxi University of Science and Technology Dr.Foundation (BJ14-07).
+The work is partially supported by the Natural Science Foundation of China (61672357 and U1713214), and the Science and Technology Funding of Guangdong Province (2018A050501014), the Shenzhen Fundamental Research fund JCYJ20180305125822769, the Education Department of Shaanxi Province (15JK1086), and Shaanxi University of Science and Technology Dr.Foundation (BJ14-07).
