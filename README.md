@@ -12,7 +12,7 @@ Feng.Liu : feng.liu@szu.edu.cn POST: Associate research fllow Organization:Shenz
 
 Wentian.Zhang : zhangwentianml@gmail.com Post:Junior Organization:SUST
 
-linlin.Shen,Yahui.Liu, Yong.Qi, JiaShu Chen, HaiMing.Cao
+Linlin.Shen,Yahui.Liu, Yong.Qi, JiaShu Chen, HaiMing.Cao
 
 ## Contribution
 
